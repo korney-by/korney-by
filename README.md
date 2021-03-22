@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @korney-by
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java and English
